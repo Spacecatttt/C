@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  COptionDialog.cpp
+  CSameGameBoard.cpp
+  MainFrm.cpp
+  SameGame.cpp
+  SameGameDoc.cpp
+  SameGameView.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 447 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SameGame.vcxproj -> C:\Users\T480\source\repos\C-and-Cpp-code\SameGame\Release\SameGame.exe
